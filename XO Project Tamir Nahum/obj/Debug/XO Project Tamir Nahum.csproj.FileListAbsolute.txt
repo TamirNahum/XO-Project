@@ -1,0 +1,14 @@
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\bin\TypeScriptHTMLApp1.dll
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\bin\TypeScriptHTMLApp1.pdb
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\XO Project Tamir Nahum.csprojResolveAssemblyReference.cache
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\XO Project Tamir Nahum.csproj.CoreCompileInputs.cache
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\תמיר\source\repos\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\TypeScriptHTMLApp1.pdb
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\bin\TypeScriptHTMLApp1.dll.config
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\bin\TypeScriptHTMLApp1.dll
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\bin\TypeScriptHTMLApp1.pdb
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\XO Project Tamir Nahum.csprojResolveAssemblyReference.cache
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\XO Project Tamir Nahum.csproj.CoreCompileInputs.cache
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\TypeScriptHTMLApp1.dll
+D:\HomeWorks\HomeWorks\XO Project Tamir Nahum\XO Project Tamir Nahum\obj\Debug\TypeScriptHTMLApp1.pdb
